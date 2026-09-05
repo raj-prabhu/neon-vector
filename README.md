@@ -1,6 +1,6 @@
 # NEON VECTOR
 
-A complete single-player arcade spaceflight campaign. Pilot an original spacecraft through five worlds, dodge obstacles, shoot enemy formations, chain boost gates, and improve your saved scores.
+A complete single-player arcade spaceflight campaign. Pilot an original spacecraft through five worlds, dodge obstacles, shoot enemy formations, chain boost gates, and improve your scores.
 
 ![Neon Vector mission selection](docs/screenshots/final-menu.png)
 
