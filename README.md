@@ -2,6 +2,8 @@
 
 A complete single-player arcade spaceflight campaign. Pilot an original spacecraft through five worlds, dodge obstacles, shoot enemy formations, chain boost gates, and improve your saved scores.
 
+![Neon Vector mission selection](docs/screenshots/final-menu.png)
+
 ## Run locally
 
 Requires Node.js 20.19+ or 22.12+ and a desktop browser with WebGL2 / hardware acceleration.
@@ -20,6 +22,14 @@ npm test        # Domain regression tests
 ```
 
 Deploy the contents of `dist/` to any static host. All geometry, effects and audio are generated locally. The bundled display font includes its OFL license in `public/fonts/OFL.txt`. No account, backend, runtime CDN or API key is needed.
+
+## Deploy with Vercel
+
+1. Import this GitHub repository into a new Vercel project.
+2. Select **Vite** as the framework, **npm run build** as the build command, and **dist** as the output directory.
+3. Deploy and share the production URL. No environment variables are required.
+
+Connect the repository once to enable automatic deployments when updates are pushed to your configured production branch. Pull requests receive preview deployments. Player progress is stored in each browser, not on the server.
 
 ## Controls
 
