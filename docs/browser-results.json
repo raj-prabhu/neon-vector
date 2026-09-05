@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "world": 1,
+      "mode": "won",
+      "time": 56.033333333331434,
+      "score": 17317,
+      "hull": 100,
+      "shield": 53,
+      "kills": 1,
+      "rings": 9,
+      "damage": 84,
+      "pool": 18
+    },
+    {
+      "world": 2,
+      "mode": "won",
+      "time": 51.866666666665004,
+      "score": 21651,
+      "hull": 100,
+      "shield": 39,
+      "kills": 3,
+      "rings": 11,
+      "damage": 84,
+      "pool": 29
+    },
+    {
+      "world": 3,
+      "mode": "won",
+      "time": 45.049999999998725,
+      "score": 179646,
+      "hull": 100,
+      "shield": 80,
+      "kills": 5,
+      "rings": 48,
+      "damage": 14,
+      "pool": 48
+    },
+    {
+      "world": 4,
+      "mode": "won",
+      "time": 50.18333333333177,
+      "score": 47135,
+      "hull": 100,
+      "shield": 30,
+      "kills": 3,
+      "rings": 12,
+      "damage": 64,
+      "boss": 0,
+      "pool": 59
+    },
+    {
+      "world": 5,
+      "mode": "won",
+      "time": 54.083333333331545,
+      "score": 62223,
+      "hull": 100,
+      "shield": 57,
+      "kills": 12,
+      "rings": 12,
+      "damage": 72,
+      "boss": 0,
+      "pool": 70
+    }
+  ],
+  "errors": []
+}

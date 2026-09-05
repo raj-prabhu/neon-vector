@@ -1,0 +1,19 @@
+{
+  "mechanics": {
+    "ring": true,
+    "shield": true,
+    "rapid": true,
+    "expiry": true,
+    "singleNearMiss": true,
+    "death": true
+  },
+  "perf": {
+    "medianFrameMs": 33.30000000000018,
+    "p95FrameMs": 33.400000000000546,
+    "drawCalls": 88,
+    "triangles": 11948,
+    "geometries": 11,
+    "entityPool": 14
+  },
+  "errors": []
+}
